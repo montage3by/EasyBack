@@ -1,0 +1,6 @@
+{
+  "name": "Reflex Duel: 2D Reaction Battle",
+  "description": "2D competitive reaction duel game with millisecond precision, matchmaking, false-start deterrence, 2FA security, global leaderboards, and energy management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
